@@ -1,0 +1,100 @@
+.fhowe{
+  margin-top: 114px;
+
+}
+input[type="text" i]{
+  width: -webkit-fill-available;
+  height: 50px;
+  padding: 4px 40px;
+  font-size: 18px;
+  background-color: #fff;
+  border:1px solid whitesmoke;
+  outline-width: 0px;
+}
+
+.mt-90{
+  justify-content: center;
+}
+.wrap-oi{
+  display: flex;
+  box-shadow: 0 5px 30px rgb(0 0 0 / 7%);
+ gap:30px
+}
+.icons{
+  position: absolute;
+   
+    font-size: 24px;
+    border: 1px solid #051b34;
+    background-color: #051b34;
+    height: 49px;
+    color: white;
+    width: 36px;
+    padding-left: 5px;
+}
+.fac{
+  display: flex;
+    border: 1px solid #3b5998;
+    background-color: #3b5998;
+    color: white;
+    align-items: center;
+    border-radius: 5px;
+    padding: 1px 30px 1px 30px;
+    gap: 7px;
+}
+.fac-0{
+  display: flex;
+    border: 1px solid #50C7C7;
+    background-color: #50C7C7;
+    color: white;
+    align-items: center;
+    border-radius: 5px;
+    padding: 1px 30px 1px 30px;
+    gap: 7px;
+}
+.ght {
+
+    display: flex;
+    flex-direction: column;
+
+}
+.l-10{
+  margin-top:18px
+}
+.l-10{
+  font-size: 17px;
+  font-weight: 700;
+}
+.fa-google{
+  display: flex;
+  justify-content: space-between;
+}
+
+.ght input {
+    margin: 0.25em 0em 1em 0em;
+    outline: none;
+    padding: 0.5em;
+    border: none;
+    background-color: rgb(225, 225, 225);
+    border-radius: 0.25em;
+    color: black;
+  }
+  /* styles for button */
+button {
+    padding: 0.75em;
+    border: none;
+    outline: none;
+    background-color: #051b34;
+    color: white;
+    border-radius: 0.25em;
+  }
+  
+  /* hover functionality for button */
+  button:hover {
+    cursor: pointer;
+    background-color: #051b34;
+  }
+  .ght label{
+text-align: left;
+padding-top: 17px;
+  }
+  
